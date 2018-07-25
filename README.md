@@ -8,17 +8,17 @@ Si je m’intéresse notamment aux aspects ergonomiques, à l’affordance et au
 
 # Depuis 2017, Chez Peaks
 
-• Accompagnement de sociétés dans leur mutation numérique
-• Conseil en stratégie digitale
-• Management direct de (talentueux !) consultants intégrés aux équipes de nos clients finaux
-• Business Development
-• Construction d'offres/d'équipes projets en régie forfaitée
+* Accompagnement de sociétés dans leur mutation numérique
+* Conseil en stratégie digitale
+* Management direct de (talentueux !) consultants intégrés aux équipes de nos clients finaux
+* Business Development
+* Construction d'offres/d'équipes projets en régie forfaitée
 
 Clients de Peaks : Enedis, M6 Web, Euronews, Tata Communication, Ocea Smart Building, Solvay, Arcelor Mittal, Seb, Veolia, Tessi, April, Alptis, Lizéo, Mister Auto, Attestation Légale, Links Lab, Colnec Health, le Livre Scolaire...
 
 # Et par le passé
 
-• 2013 - 2017 GL Events - Chef de projets digitaux - en charge de sujets de transformation pour le groupe
-• 2011 - 2013 Jetpulp - Chef de projets Web - Management transverse en agence au services de clients rhônalpins et nationaux 
-• 2009 - 2011 Colorz - Chef de projets Web - De beaux projets de notoriété nationale et internationale, servis par une UX/UI de qualité
-• 2006 - 2009 M6 Web - Webmaster/Chef de projet - Le début d'une belle aventure, dans le domaine de la VOD, des réseaux sociaux et d'une autre époque pour Internet :)
+* 2013 - 2017 __GL Events__ - Chef de projets digitaux - en charge de sujets de transformation pour le groupe
+* 2011 - 2013 __Jetpulp__ - Chef de projets Web - Management transverse en agence au services de clients rhônalpins et nationaux
+* 2009 - 2011 __Colorz__ - Chef de projets Web - De beaux projets de notoriété nationale et internationale, servis par une UX/UI de qualité
+* 2006 - 2009 __M6 Web__ - Webmaster/Chef de projet - Le début d'une belle aventure, dans le domaine de la VOD, des réseaux sociaux et d'une autre époque pour Internet :)
